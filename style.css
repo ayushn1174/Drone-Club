@@ -9,7 +9,7 @@
 
 body {
   background: #ffffff;
-  color: #222;
+  color: #222222;
   line-height: 1.6;
   overflow-x: hidden;
 }
@@ -717,4 +717,5 @@ footer {
 }
 @media (max-width: 600px) {
     .team-grid { grid-template-columns: 1fr; }
+
 }
